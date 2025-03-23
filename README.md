@@ -1,4 +1,4 @@
-# IndoCompScraper
+# Infortix
 
 A web-based application designed to aggregate and organize student competitions in Indonesia. The app focuses on national events with secondary attention to international competitions.
 
